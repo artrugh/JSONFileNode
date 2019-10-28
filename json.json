@@ -1,0 +1,28 @@
+{
+    "genres": [
+        "Rock",
+        "Metal",
+        "Punk",
+        "Folck",
+        "Pop",
+        "Classic",
+        "Hip-Hop"
+    ],
+    "singers": [
+        "Plant",
+        "Kubein",
+        "De la Rocha",
+        "Anderson",
+        "Water",
+        "Joplin"
+    ],
+    "bands": [
+        "The Germs",
+        "Dead Kennedys",
+        "The Damned",
+        "Fear",
+        "Black Flag",
+        "Led Zeppelin",
+        "The Who"
+    ]
+}
